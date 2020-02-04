@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45767" started-at="2020-02-01T11:56:30 IST" finished-at="2020-02-01T11:57:16 IST">
+    <groups>
+      <group name="login">
+        <method signature="Newtest.f()[pri:1, instance:rDb.Newtest@5f9d02cb]" name="f" class="rDb.Newtest"/>
+      </group> <!-- login -->
+      <group name="NextPage">
+        <method signature="Newtest.f2()[pri:2, instance:rDb.Newtest@5f9d02cb]" name="f2" class="rDb.Newtest"/>
+      </group> <!-- NextPage -->
+    </groups>
+    <test name="Default test" duration-ms="45767" started-at="2020-02-01T11:56:30 IST" finished-at="2020-02-01T11:57:16 IST">
+      <class name="rDb.Newtest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:rDb.Newtest@5f9d02cb]" name="beforeMethod" is-config="true" duration-ms="13600" started-at="2020-02-01T11:56:30 IST" finished-at="2020-02-01T11:56:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:1, instance:rDb.Newtest@5f9d02cb]" name="f" duration-ms="1847" started-at="2020-02-01T11:56:44 IST" finished-at="2020-02-01T11:56:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:rDb.Newtest@5f9d02cb]" name="afterMethod" is-config="true" duration-ms="12123" started-at="2020-02-01T11:56:46 IST" finished-at="2020-02-01T11:56:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:rDb.Newtest@5f9d02cb]" name="beforeMethod" is-config="true" duration-ms="9325" started-at="2020-02-01T11:56:58 IST" finished-at="2020-02-01T11:57:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f2()[pri:2, instance:rDb.Newtest@5f9d02cb]" name="f2" duration-ms="1150" started-at="2020-02-01T11:57:07 IST" finished-at="2020-02-01T11:57:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:rDb.Newtest@5f9d02cb]" name="afterMethod" is-config="true" duration-ms="7661" started-at="2020-02-01T11:57:09 IST" finished-at="2020-02-01T11:57:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- rDb.Newtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
