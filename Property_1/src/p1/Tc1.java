@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Tc1 {
-
+//manohar
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 Properties obj=new Properties();
